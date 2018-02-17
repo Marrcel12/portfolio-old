@@ -6,7 +6,7 @@
     /*MENU START*/
     
     #main-nav {
-        background-color: #fff;
+        opacity: none;
         transition: all 0.4s;
     }
     
@@ -15,7 +15,7 @@
     }
     
     #main-nav .navbar-nav .nav-item .nav-link {
-        color: #000;
+        color: white;
         font-family: 'Lato', sans-serif;
         font-weight: bold;
         transition: all 0.4s;
