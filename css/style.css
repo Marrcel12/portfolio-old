@@ -2,12 +2,16 @@
     body {
         margin: 0;
         box-sizing: border-box;
+        padding: 0;
     }
     /*MENU START*/
     
     #main-nav {
         opacity: none;
         transition: all 0.4s;
+        height: 20px;
+        padding: 17px;
+        
     }
     
     #main-nav.white {
